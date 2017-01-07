@@ -1,0 +1,405 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ongraphics.eu" resolutions="1x" timestamp="1483792952600">
+  <folder name="css">
+    <file name="site_global.css" crc="377779993"/>
+    <file name="master_anemos-master.css" crc="407869599" ref="anemos-ok"/>
+    <file name="master_blog.css" crc="381033237" ref="reviews"/>
+    <file name="master_almyra-master.css" crc="457163355" ref="almyra-ok"/>
+    <file name="master_rates.css" crc="386455191" ref="rates-p"/>
+    <file name="master_ammos--master.css" crc="218468787" ref="ammos-ok"/>
+    <file name="master_geniki.css" crc="15553115" ref="winter:gallery:location"/>
+    <file name="master_b-master.css" crc="4085793217" ref="index"/>
+    <file name="reviews.css" crc="3963540505" ref="reviews"/>
+    <file name="iefonts_reviews.css" crc="4147335892" ref="reviews"/>
+    <file name="index.css" crc="480159715" ref="index"/>
+    <file name="iefonts_index.css" crc="122677564" ref="index"/>
+    <file name="anemos-ok.css" crc="3811993657" ref="anemos-ok"/>
+    <file name="iefonts_anemos-ok.css" crc="464588522" ref="anemos-ok"/>
+    <file name="winter.css" crc="508613030" ref="winter"/>
+    <file name="iefonts_winter.css" crc="62659777" ref="winter"/>
+    <file name="rates-p.css" crc="37563396" ref="rates-p"/>
+    <file name="iefonts_rates-p.css" crc="143878576" ref="rates-p"/>
+    <file name="ammos-ok.css" crc="4150921130" ref="ammos-ok"/>
+    <file name="iefonts_ammos-ok.css" crc="4229681123" ref="ammos-ok"/>
+    <file name="almyra-ok.css" crc="391579675" ref="almyra-ok"/>
+    <file name="iefonts_almyra-ok.css" crc="24999843" ref="almyra-ok"/>
+    <file name="gallery.css" crc="3854256402" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="4158330670" ref="gallery"/>
+    <file name="location.css" crc="3848680558" ref="location"/>
+    <file name="iefonts_location.css" crc="195224391" ref="location"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="museutils.js" crc="4148063285" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="webpro.js" crc="3986320349" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:location:winter:gallery"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:location:winter:gallery"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:location:winter:gallery"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:location:winter:gallery"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:anemos-ok:almyra-ok:ammos-ok:location:winter:gallery"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u3866.php" crc="414378623" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:anemos-ok:almyra-ok:ammos-ok:location:winter:gallery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+    <file name="require.js" crc="4159430777" ref="index:anemos-ok:almyra-ok:ammos-ok:reviews:rates-p:location:winter:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="63 - 30.jpg" crc="4160905485" ref="index"/>
+    <file name="sk h 01.jpg" crc="282508662" seo="true" ref="index:anemos-ok"/>
+    <file name="blank.gif" crc="4208392903" ref="index:anemos-ok:almyra-ok:ammos-ok:location:gallery"/>
+    <file name="sk_ 04.jpg" crc="202945811" seo="true" ref="index"/>
+    <file name="sk h 03.jpg" crc="4079769268" seo="true" ref="index"/>
+    <file name="sk_ 15.jpg" crc="410369557" seo="true" ref="index"/>
+    <file name="sk_ 19.jpg" crc="229590078" seo="true" ref="index"/>
+    <file name="av 89.jpg" crc="25897338" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:anemos-ok:almyra-ok:ammos-ok:location:gallery"/>
+    <file name="vinieta 01.png" crc="224324131" ref="index:almyra-ok:location:gallery"/>
+    <file name="book-u3773.png" crc="279494584" ref="index"/>
+    <file name="book 02-u3773-r.png" crc="157683808" ref="index"/>
+    <file name="bar.png" crc="3817013535" ref="index:anemos-ok:almyra-ok:ammos-ok:location:winter:gallery"/>
+    <file name="sk_ 19-u3111-fr.jpg" crc="3954513292" ref="index"/>
+    <file name="trip 02-u3114-fr.png" crc="396909669" ref="index"/>
+    <file name="look-sk-u3114-fr.png" crc="126727293" ref="index"/>
+    <file name="look-sk-u3114-r-fr.png" crc="331822228" ref="index"/>
+    <file name="sk_ 03.jpg" crc="4243754823" ref="index"/>
+    <file name="asd.jpg" crc="3845319162" ref="index"/>
+    <file name="sk_ 20.jpg" crc="4146860152" ref="index"/>
+    <file name="sk sma 02.jpg" crc="39219187" ref="index"/>
+    <file name="sk sma 03.jpg" crc="3818372959" ref="index"/>
+    <file name="sk sma 04.jpg" crc="3792660142" ref="index"/>
+    <file name="u3856-4.png" crc="4189136471" ref="index"/>
+    <file name="small 344.jpg" crc="3969202536" ref="index"/>
+    <file name="smallchania .jpg" crc="268468247" ref="index"/>
+    <file name="image00424-crop ok.jpg" crc="3833864673" ref="index"/>
+    <file name="fb 01.png" crc="4103508191" ref="index"/>
+    <file name="fb 02.png" crc="3991642481" ref="index"/>
+    <file name="twi 01.png" crc="479000751" ref="index"/>
+    <file name="twi 02.png" crc="37566387" ref="index"/>
+    <file name="trip 01.png" crc="183653094" ref="index"/>
+    <file name="trip 02.png" crc="233005557" ref="index"/>
+    <file name="logos ss2 copy.jpg" crc="505839164" ref="index:anemos-ok:almyra-ok:ammos-ok"/>
+    <file name="anemos 99.jpg" crc="4075561098" seo="true" ref="anemos-ok"/>
+    <file name="anemos 34.jpg" crc="324855038" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 101.jpg" crc="507711780" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 5678.jpg" crc="415855203" seo="true" ref="anemos-ok"/>
+    <file name="anemos 23.jpg" crc="3891154296" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 46 copy.jpg" crc="190112077" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 999.jpg" crc="28222480" seo="true" ref="anemos-ok"/>
+    <file name="anemos 98.jpg" crc="505850929" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 22.jpg" crc="4027288999" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 45.jpg" crc="340863432" seo="true" ref="anemos-ok"/>
+    <file name="sk_ 202.jpg" crc="4146860152" seo="true" ref="anemos-ok"/>
+    <file name="anemos 89.jpg" crc="52970693" seo="true" ref="anemos-ok"/>
+    <file name="anemos 387.jpg" crc="87616299" seo="true" ref="anemos-ok"/>
+    <file name="anemos 55.jpg" crc="3920709665" seo="true" ref="anemos-ok"/>
+    <file name="anemos 56.jpg" crc="165415332" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 60.jpg" crc="273861565" seo="true" ref="anemos-ok"/>
+    <file name="anemos 78.jpg" crc="4042382253" seo="true" ref="anemos-ok"/>
+    <file name="anemos 435.jpg" crc="3971199355" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 453.jpg" crc="4099027093" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 678.jpg" crc="4243334031" seo="true" ref="anemos-ok"/>
+    <file name="vinieta anemos.png" crc="4091703230" ref="anemos-ok"/>
+    <file name="book-u4640.png" crc="279494584" ref="anemos-ok"/>
+    <file name="book 02-u4640-r.png" crc="157683808" ref="anemos-ok"/>
+    <file name="2010-12-14_095118_cr.jpg" crc="147246713" ref="anemos-ok"/>
+    <file name="anemos sm 03.jpg" crc="3889541586" ref="anemos-ok"/>
+    <file name="anemos sm 02.jpg" crc="3843118925" ref="anemos-ok"/>
+    <file name="sk h 011219x811.jpg" crc="102442511" seo="true" ref="anemos-ok"/>
+    <file name="sk_ 032.jpg" crc="3845153240" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 1011215x811.jpg" crc="47744314" seo="true" ref="anemos-ok"/>
+    <file name="anemos 991219x811.jpg" crc="186822479" seo="true" ref="anemos-ok"/>
+    <file name="anemos 891219x811.jpg" crc="3958425331" seo="true" ref="anemos-ok"/>
+    <file name="anemos 3871219x811.jpg" crc="365064012" seo="true" ref="anemos-ok"/>
+    <file name="anemos 745.jpg" crc="3805417056" seo="true" ref="anemos-ok:gallery"/>
+    <file name="sk_ 30.jpg" crc="3929701216" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 602.jpg" crc="273861565" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 782.jpg" crc="4042382253" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos121.jpg" crc="368053359" seo="true" ref="anemos-ok:gallery"/>
+    <file name="skplace 036_resize.jpg" crc="3907841887" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 56782.jpg" crc="415855203" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 452.jpg" crc="340863432" seo="true" ref="anemos-ok:gallery"/>
+    <file name="anemos 9991218x811.jpg" crc="98461408" seo="true" ref="anemos-ok"/>
+    <file name="sk h 01-crop-u5290.jpg" crc="48935579" ref="anemos-ok"/>
+    <file name="sk_ 03-crop-u5299.jpg" crc="517295746" ref="anemos-ok"/>
+    <file name="anemos 101-crop-u4964.jpg" crc="4055698852" ref="anemos-ok"/>
+    <file name="anemos 99-crop-u5111.jpg" crc="40747679" ref="anemos-ok"/>
+    <file name="anemos 46 copy-crop-u5120.jpg" crc="4193394579" ref="anemos-ok"/>
+    <file name="anemos 89-crop-u5129.jpg" crc="199683356" ref="anemos-ok"/>
+    <file name="anemos 98-crop-u5138.jpg" crc="457769453" ref="anemos-ok"/>
+    <file name="anemos 387-crop-u5147.jpg" crc="3975469395" ref="anemos-ok"/>
+    <file name="anemos 745-crop-u5156.jpg" crc="322416586" ref="anemos-ok"/>
+    <file name="anemos 46 copy-crop-u5165.jpg" crc="4193394579" ref="anemos-ok"/>
+    <file name="sk_ 30300x274.jpg" crc="3808399856" seo="true" ref="anemos-ok"/>
+    <file name="anemos 56-crop-u5183.jpg" crc="221525734" ref="anemos-ok"/>
+    <file name="anemos 60-crop-u5192.jpg" crc="3792573846" ref="anemos-ok"/>
+    <file name="anemos 78-crop-u5201.jpg" crc="4200253680" ref="anemos-ok"/>
+    <file name="anemos 435-crop-u5210.jpg" crc="4244353974" ref="anemos-ok"/>
+    <file name="anemos 453-crop-u5219.jpg" crc="19770366" ref="anemos-ok"/>
+    <file name="anemos121-crop-u5348.jpg" crc="364278921" ref="anemos-ok"/>
+    <file name="skplace 036_resize-crop-u5357.jpg" crc="155709283" ref="anemos-ok"/>
+    <file name="anemos 5678-crop-u5237.jpg" crc="4128703387" ref="anemos-ok"/>
+    <file name="anemos 45-crop-u5246.jpg" crc="525766967" ref="anemos-ok"/>
+    <file name="anemos 999-crop-u5102.jpg" crc="454878333" ref="anemos-ok"/>
+    <file name="anemos 34-crop-u5255.jpg" crc="429258520" ref="anemos-ok"/>
+    <file name="anemos 22-crop-u5264.jpg" crc="4137688860" ref="anemos-ok"/>
+    <file name="anemos 23-crop-u5273.jpg" crc="3835169553" ref="anemos-ok"/>
+    <file name="2010-12-14_101041.jpg" crc="3828434252" ref="anemos-ok"/>
+    <file name="1anemos 1.jpg" crc="472557310" seo="true" ref="anemos-ok"/>
+    <file name="anemos 2.jpg" crc="4188435872" seo="true" ref="anemos-ok"/>
+    <file name="anemos 3.jpg" crc="3869679689" seo="true" ref="anemos-ok"/>
+    <file name="1anemos 1409x271.jpg" crc="3848960685" seo="true" ref="anemos-ok"/>
+    <file name="anemos 2409x271.jpg" crc="515407641" seo="true" ref="anemos-ok"/>
+    <file name="anemos 3409x271.jpg" crc="72507476" seo="true" ref="anemos-ok"/>
+    <file name="win s.png" crc="4074820274" ref="anemos-ok:almyra-ok:ammos-ok:gallery"/>
+    <file name="wi-u8733.png" crc="4190127977" ref="anemos-ok"/>
+    <file name="wi 2-u8733-r.png" crc="3861429938" ref="anemos-ok"/>
+    <file name="1.jpg" crc="347073012" seo="true" ref="almyra-ok:gallery"/>
+    <file name="pp.jpg" crc="213379686" seo="true" ref="almyra-ok"/>
+    <file name="_dsc2953α ok.jpg" crc="115272943" seo="true" ref="almyra-ok"/>
+    <file name="_dsc2963α ok.jpg" crc="225666529" seo="true" ref="almyra-ok"/>
+    <file name="_dsc2969α ok.jpg" crc="78218858" seo="true" ref="almyra-ok"/>
+    <file name="_dsc3004α ok.jpg" crc="4290178656" seo="true" ref="almyra-ok"/>
+    <file name="_dsc3007α ok.jpg" crc="490747584" seo="true" ref="almyra-ok"/>
+    <file name="sk_ 152.jpg" crc="410369557" seo="true" ref="almyra-ok"/>
+    <file name="_okk5116 ok.jpg" crc="3953018846" seo="true" ref="almyra-ok"/>
+    <file name="2.jpg" crc="3779912913" seo="true" ref="almyra-ok"/>
+    <file name="3 ok.jpg" crc="3848948284" seo="true" ref="almyra-ok"/>
+    <file name="4.jpg" crc="210209714" seo="true" ref="almyra-ok"/>
+    <file name="5.jpg" crc="4089218661" seo="true" ref="almyra-ok"/>
+    <file name="61.jpg" crc="3925652436" seo="true" ref="almyra-ok:gallery"/>
+    <file name="6.jpg" crc="4147613762" seo="true" ref="almyra-ok"/>
+    <file name="6_2.jpg" crc="68668118" seo="true" ref="almyra-ok"/>
+    <file name="71 ok.jpg" crc="4211950649" seo="true" ref="almyra-ok"/>
+    <file name="7.jpg" crc="59329411" seo="true" ref="almyra-ok"/>
+    <file name="8.jpg" crc="68668118" seo="true" ref="almyra-ok"/>
+    <file name="9.jpg" crc="366899723" seo="true" ref="almyra-ok"/>
+    <file name="10.jpg" crc="186324077" seo="true" ref="almyra-ok"/>
+    <file name="11 ok.jpg" crc="3854297904" seo="true" ref="almyra-ok"/>
+    <file name="12 ok.jpg" crc="3981740512" seo="true" ref="almyra-ok"/>
+    <file name="121.jpg" crc="211330577" seo="true" ref="almyra-ok"/>
+    <file name="book-u6390.png" crc="279494584" ref="almyra-ok"/>
+    <file name="book 02-u6390-r.png" crc="157683808" ref="almyra-ok"/>
+    <file name="ext_al_7.jpg" crc="4049012460" seo="true" ref="almyra-ok:ammos-ok:gallery"/>
+    <file name="sma 03.jpg" crc="25356715" ref="almyra-ok"/>
+    <file name="sal 01.jpg" crc="381724514" ref="almyra-ok"/>
+    <file name="ext_al_10.jpg" crc="485139073" ref="almyra-ok"/>
+    <file name="_dsc3007α ok1219x811.jpg" crc="4178737425" seo="true" ref="almyra-ok"/>
+    <file name="_dsc2953α ok1219x811.jpg" crc="470722768" seo="true" ref="almyra-ok"/>
+    <file name="_dsc2969α ok1219x811.jpg" crc="4273485436" seo="true" ref="almyra-ok"/>
+    <file name="_dsc3004α ok1219x811.jpg" crc="328379562" seo="true" ref="almyra-ok"/>
+    <file name="_okk5116 ok1219x811.jpg" crc="225458741" seo="true" ref="almyra-ok"/>
+    <file name="11219x811.jpg" crc="3897605258" seo="true" ref="almyra-ok"/>
+    <file name="21247x812.jpg" crc="4050645677" seo="true" ref="almyra-ok"/>
+    <file name="3 ok1217x812.jpg" crc="4063971261" seo="true" ref="almyra-ok"/>
+    <file name="41292x812.jpg" crc="4141002098" seo="true" ref="almyra-ok"/>
+    <file name="51351x811.jpg" crc="411792299" seo="true" ref="almyra-ok"/>
+    <file name="61314x811.jpg" crc="4256644441" seo="true" ref="almyra-ok"/>
+    <file name="71 ok1219x811.jpg" crc="377931824" seo="true" ref="almyra-ok"/>
+    <file name="71219x811.jpg" crc="4280592278" seo="true" ref="almyra-ok"/>
+    <file name="81219x811.jpg" crc="3882365270" seo="true" ref="almyra-ok"/>
+    <file name="91356x678.jpg" crc="4232609100" seo="true" ref="almyra-ok"/>
+    <file name="101315x811.jpg" crc="4265821455" seo="true" ref="almyra-ok"/>
+    <file name="11 ok1217x812.jpg" crc="3942447340" seo="true" ref="almyra-ok"/>
+    <file name="12 ok1230x811.jpg" crc="4155646599" seo="true" ref="almyra-ok"/>
+    <file name="1211251x811.jpg" crc="496497935" seo="true" ref="almyra-ok"/>
+    <file name="almyra 31356x547.jpg" crc="3937050456" seo="true" ref="almyra-ok"/>
+    <file name="almyra banner.jpg" crc="426576122" seo="true" ref="almyra-ok:gallery"/>
+    <file name="ext_al_61356x547.jpg" crc="3839537621" seo="true" ref="almyra-ok"/>
+    <file name="_dsc3007α ok-crop-u6304.jpg" crc="139577977" ref="almyra-ok"/>
+    <file name="ext_al_7-crop-u6705.jpg" crc="3983422743" ref="almyra-ok"/>
+    <file name="_dsc2953α ok-crop-u6714.jpg" crc="337072213" ref="almyra-ok"/>
+    <file name="_dsc2969α ok-crop-u6732.jpg" crc="3785820452" ref="almyra-ok"/>
+    <file name="_dsc3004α ok-crop-u6741.jpg" crc="4013250736" ref="almyra-ok"/>
+    <file name="_okk5116 ok-crop-u6750.jpg" crc="4171480200" ref="almyra-ok"/>
+    <file name="1-crop-u6759.jpg" crc="341018431" ref="almyra-ok"/>
+    <file name="2-crop-u6768.jpg" crc="4117857574" ref="almyra-ok"/>
+    <file name="3 ok-crop-u6777.jpg" crc="4009025987" ref="almyra-ok"/>
+    <file name="4-crop-u6786.jpg" crc="4098083764" ref="almyra-ok"/>
+    <file name="5-crop-u6795.jpg" crc="32797373" ref="almyra-ok"/>
+    <file name="61-crop-u6804.jpg" crc="3950330942" ref="almyra-ok"/>
+    <file name="6-crop-u6813.jpg" crc="80291735" ref="almyra-ok"/>
+    <file name="71 ok-crop-u6831.jpg" crc="4223833095" ref="almyra-ok"/>
+    <file name="7-crop-u6840.jpg" crc="369162740" ref="almyra-ok"/>
+    <file name="8-crop-u6849.jpg" crc="3769213567" ref="almyra-ok"/>
+    <file name="9-crop-u6858.jpg" crc="211546502" ref="almyra-ok"/>
+    <file name="10-crop-u6867.jpg" crc="2066093" ref="almyra-ok"/>
+    <file name="11 ok-crop-u6876.jpg" crc="4755451" ref="almyra-ok"/>
+    <file name="12 ok-crop-u6885.jpg" crc="3872813287" ref="almyra-ok"/>
+    <file name="121-crop-u6894.jpg" crc="530304470" ref="almyra-ok"/>
+    <file name="almyra 3-crop-u6903.jpg" crc="3824683147" ref="almyra-ok"/>
+    <file name="almyra banner-crop-u6912.jpg" crc="3968742629" ref="almyra-ok"/>
+    <file name="ext_al_6-crop-u6921.jpg" crc="82479205" ref="almyra-ok"/>
+    <file name="almyra 3.jpg" crc="4018169034" ref="almyra-ok"/>
+    <file name="almyra 1.jpg" crc="353746747" seo="true" ref="almyra-ok"/>
+    <file name="almyra 2.jpg" crc="512414959" seo="true" ref="almyra-ok"/>
+    <file name="almyra 32.jpg" crc="4260735507" seo="true" ref="almyra-ok"/>
+    <file name="almyra 1409x270.jpg" crc="3896604803" seo="true" ref="almyra-ok"/>
+    <file name="almyra 2-crop-u6955.jpg" crc="4237522063" ref="almyra-ok"/>
+    <file name="almyra 3409x270.jpg" crc="105997603" seo="true" ref="almyra-ok"/>
+    <file name="wi-u8703.png" crc="4190127977" ref="almyra-ok"/>
+    <file name="wi 2-u8703-r.png" crc="3861429938" ref="almyra-ok"/>
+    <file name="ammos 48.jpg" crc="4203014475" seo="true" ref="ammos-ok"/>
+    <file name="_dsc2844a ok.jpg" crc="96422273" seo="true" ref="ammos-ok"/>
+    <file name="_dsc2855a ok.jpg" crc="180731551" seo="true" ref="ammos-ok"/>
+    <file name="3 ok2.jpg" crc="3883229538" seo="true" ref="ammos-ok"/>
+    <file name="5_2 ok.jpg" crc="4241270386" seo="true" ref="ammos-ok"/>
+    <file name="62.jpg" crc="4049530435" seo="true" ref="ammos-ok:gallery"/>
+    <file name="72.jpg" crc="3856909372" seo="true" ref="ammos-ok:gallery"/>
+    <file name="92.jpg" crc="4179709772" seo="true" ref="ammos-ok:gallery"/>
+    <file name="102.jpg" crc="411539507" seo="true" ref="ammos-ok:gallery"/>
+    <file name="11.jpg" crc="518536365" seo="true" ref="ammos-ok:gallery"/>
+    <file name="12.jpg" crc="4119376612" seo="true" ref="ammos-ok:gallery"/>
+    <file name="13 ok.jpg" crc="381558169" seo="true" ref="ammos-ok"/>
+    <file name="ammos 00.jpg" crc="111406750" seo="true" ref="ammos-ok"/>
+    <file name="ammos 45.jpg" crc="4197642384" seo="true" ref="ammos-ok:gallery"/>
+    <file name="ammos 46.jpg" crc="4255649509" seo="true" ref="ammos-ok:gallery"/>
+    <file name="ammos 47.jpg" crc="3769854924" seo="true" ref="ammos-ok"/>
+    <file name="vinieta ammos.png" crc="500120263" ref="ammos-ok"/>
+    <file name="book-u7632.png" crc="279494584" ref="ammos-ok"/>
+    <file name="book 02-u7632-r.png" crc="157683808" ref="ammos-ok"/>
+    <file name="s ammos 01.jpg" crc="512992334" ref="ammos-ok"/>
+    <file name="s ammos 02.jpg" crc="3951616053" ref="ammos-ok"/>
+    <file name="ammos 001219x811.jpg" crc="4080818175" seo="true" ref="ammos-ok"/>
+    <file name="ammos 471239x811.jpg" crc="4225782848" seo="true" ref="ammos-ok"/>
+    <file name="_dsc2844a ok1219x811.jpg" crc="4261455847" seo="true" ref="ammos-ok"/>
+    <file name="_dsc2855a ok1219x811.jpg" crc="185264737" seo="true" ref="ammos-ok"/>
+    <file name="3 ok1356x548.jpg" crc="411504491" seo="true" ref="ammos-ok"/>
+    <file name="5_2 ok1217x812.jpg" crc="3909375868" seo="true" ref="ammos-ok"/>
+    <file name="13 ok1225x811.jpg" crc="291394237" seo="true" ref="ammos-ok"/>
+    <file name="ammos 481153x811.jpg" crc="45205996" seo="true" ref="ammos-ok"/>
+    <file name="ammos 00-crop-u7539.jpg" crc="29830910" ref="ammos-ok"/>
+    <file name="ammos 45-crop-u7809.jpg" crc="4275326221" ref="ammos-ok"/>
+    <file name="ammos 46-crop-u7818.jpg" crc="274132729" ref="ammos-ok"/>
+    <file name="ammos 47-crop-u7827.jpg" crc="4080483177" ref="ammos-ok"/>
+    <file name="_dsc2844a ok-crop-u7836.jpg" crc="155916153" ref="ammos-ok"/>
+    <file name="_dsc2855a ok-crop-u7845.jpg" crc="223308290" ref="ammos-ok"/>
+    <file name="3 ok-crop-u7854.jpg" crc="4285845535" ref="ammos-ok"/>
+    <file name="5_2 ok-crop-u7863.jpg" crc="389110494" ref="ammos-ok"/>
+    <file name="6-crop-u7872.jpg" crc="32300508" ref="ammos-ok"/>
+    <file name="7-crop-u7881.jpg" crc="36886599" ref="ammos-ok"/>
+    <file name="9-crop-u7890.jpg" crc="139406502" ref="ammos-ok"/>
+    <file name="10-crop-u7899.jpg" crc="305496194" ref="ammos-ok"/>
+    <file name="11276x315.jpg" crc="402706836" seo="true" ref="ammos-ok"/>
+    <file name="12-crop-u7917.jpg" crc="3994269816" ref="ammos-ok"/>
+    <file name="13 ok-crop-u7926.jpg" crc="498979150" ref="ammos-ok"/>
+    <file name="ammos 48-crop-u7935.jpg" crc="3783098354" ref="ammos-ok"/>
+    <file name="int_am_11 ok.jpg" crc="3888238728" ref="ammos-ok"/>
+    <file name="2010-12-14_102544.jpg" crc="510676431" ref="ammos-ok"/>
+    <file name="ammos 1.jpg" crc="122168199" seo="true" ref="ammos-ok"/>
+    <file name="ammos 2.jpg" crc="170880648" seo="true" ref="ammos-ok"/>
+    <file name="ammos 3.jpg" crc="49135913" seo="true" ref="ammos-ok"/>
+    <file name="ammos 1409x270.jpg" crc="3875479971" seo="true" ref="ammos-ok"/>
+    <file name="ammos 2-crop-u8001.jpg" crc="3972829806" ref="ammos-ok"/>
+    <file name="ammos 3409x270.jpg" crc="261987121" seo="true" ref="ammos-ok"/>
+    <file name="wi-u8731.png" crc="4190127977" ref="ammos-ok"/>
+    <file name="wi 2-u8731-r.png" crc="3861429938" ref="ammos-ok"/>
+    <file name="sk 01 blog white.jpg" crc="4176120748" ref="reviews"/>
+    <file name="book-u9557.png" crc="279494584" ref="reviews"/>
+    <file name="book 02-u9557-r.png" crc="157683808" ref="reviews"/>
+    <file name="logo big white.png" crc="510691739" ref="reviews:rates-p"/>
+    <file name="logo ball.png" crc="95675273" ref="reviews:rates-p:location:winter:gallery"/>
+    <file name="ext_al_33 ok.jpg" crc="3911367076" ref="rates-p"/>
+    <file name="wind 01.jpg" crc="4045712356" seo="true" ref="location"/>
+    <file name="wind 06.jpg" crc="387705790" seo="true" ref="location"/>
+    <file name="wind 07.jpg" crc="3972039090" seo="true" ref="location"/>
+    <file name="wind 08.jpg" crc="102949382" seo="true" ref="location"/>
+    <file name="wind 10.jpg" crc="165317412" seo="true" ref="location"/>
+    <file name="book-u10777.png" crc="279494584" ref="location"/>
+    <file name="book 02-u10777-r.png" crc="157683808" ref="location"/>
+    <file name="wind 12.jpg" crc="3993373787" ref="location"/>
+    <file name="te 01.jpg" crc="4106771346" ref="location"/>
+    <file name="te 02.jpg" crc="4118971787" ref="location"/>
+    <file name="wind 04.jpg" crc="4094382665" ref="winter"/>
+    <file name="vinieta 08.png" crc="81616483" ref="winter"/>
+    <file name="book-u9556.png" crc="279494584" ref="winter"/>
+    <file name="book 02-u9556-r.png" crc="157683808" ref="winter"/>
+    <file name="wind 15.jpg" crc="423006628" ref="winter"/>
+    <file name="wind 03.jpg" crc="3975547448" ref="winter"/>
+    <file name="wind 16.jpg" crc="3865573678" ref="winter"/>
+    <file name="48921394.jpg" crc="4124957002" ref="winter"/>
+    <file name="wind 19-u9528.png" crc="403591929" ref="winter"/>
+    <file name="ext_al_6.jpg" crc="3800663232" seo="true" ref="gallery"/>
+    <file name="ext_al_9.jpg" crc="212137035" seo="true" ref="gallery"/>
+    <file name="book-u10776.png" crc="279494584" ref="gallery"/>
+    <file name="book 02-u10776-r.png" crc="157683808" ref="gallery"/>
+    <file name="sk h 01-crop-u10114.jpg" crc="4110431280" ref="gallery"/>
+    <file name="sk_ 03-crop-u10110.jpg" crc="3759575937" ref="gallery"/>
+    <file name="anemos 101-crop-u10078.jpg" crc="3818066741" ref="gallery"/>
+    <file name="anemos 99-crop-u10084.jpg" crc="208649594" ref="gallery"/>
+    <file name="anemos 46 copy-crop-u10102.jpg" crc="4158726700" ref="gallery"/>
+    <file name="anemos 89-crop-u10082.jpg" crc="518858288" ref="gallery"/>
+    <file name="anemos 98-crop-u10106.jpg" crc="487313345" ref="gallery"/>
+    <file name="anemos 387-crop-u10120.jpg" crc="4053632223" ref="gallery"/>
+    <file name="anemos 745-crop-u10088.jpg" crc="216372088" ref="gallery"/>
+    <file name="anemos 46 copy-crop-u10122.jpg" crc="4158726700" ref="gallery"/>
+    <file name="sk_ 30188x171.jpg" crc="430349029" seo="true" ref="gallery"/>
+    <file name="anemos 56-crop-u10118.jpg" crc="4265000989" ref="gallery"/>
+    <file name="anemos 60-crop-u10090.jpg" crc="449803278" ref="gallery"/>
+    <file name="anemos 78-crop-u10092.jpg" crc="3920817536" ref="gallery"/>
+    <file name="anemos 435-crop-u10104.jpg" crc="3858132165" ref="gallery"/>
+    <file name="anemos 453-crop-u10112.jpg" crc="3839464453" ref="gallery"/>
+    <file name="anemos121220x171.jpg" crc="196760838" seo="true" ref="gallery"/>
+    <file name="skplace 036_resize-crop-u10116.jpg" crc="219883239" ref="gallery"/>
+    <file name="anemos 5678-crop-u10124.jpg" crc="318916259" ref="gallery"/>
+    <file name="anemos 45-crop-u10080.jpg" crc="339102993" ref="gallery"/>
+    <file name="anemos 999-crop-u10094.jpg" crc="20027910" ref="gallery"/>
+    <file name="anemos 34-crop-u10100.jpg" crc="370936978" ref="gallery"/>
+    <file name="anemos 22-crop-u10108.jpg" crc="3948070670" ref="gallery"/>
+    <file name="anemos 23-crop-u10086.jpg" crc="3825456352" ref="gallery"/>
+    <file name="ammos 00-crop-u10358.jpg" crc="76218824" ref="gallery"/>
+    <file name="ammos 45-crop-u10354.jpg" crc="269923445" ref="gallery"/>
+    <file name="ammos 46-crop-u10360.jpg" crc="4259454165" ref="gallery"/>
+    <file name="ammos 47-crop-u10348.jpg" crc="3790945356" ref="gallery"/>
+    <file name="_dsc2844a ok-crop-u10352.jpg" crc="336273086" ref="gallery"/>
+    <file name="_dsc2855a ok-crop-u10344.jpg" crc="286094583" ref="gallery"/>
+    <file name="3 ok-crop-u10370.jpg" crc="311813916" ref="gallery"/>
+    <file name="5_2 ok-crop-u10368.jpg" crc="3873025022" ref="gallery"/>
+    <file name="6-crop-u10364.jpg" crc="4226752287" ref="gallery"/>
+    <file name="7-crop-u10342.jpg" crc="228001453" ref="gallery"/>
+    <file name="9-crop-u10366.jpg" crc="3829011016" ref="gallery"/>
+    <file name="10-crop-u10350.jpg" crc="3889026442" ref="gallery"/>
+    <file name="11185x212.jpg" crc="207587325" seo="true" ref="gallery"/>
+    <file name="12-crop-u10340.jpg" crc="47150046" ref="gallery"/>
+    <file name="13 ok-crop-u10362.jpg" crc="4282253654" ref="gallery"/>
+    <file name="ammos 48-crop-u10356.jpg" crc="265438630" ref="gallery"/>
+    <file name="_dsc3007α ok-crop-u10578.jpg" crc="4110047548" ref="gallery"/>
+    <file name="ext_al_7-crop-u10610.jpg" crc="3875506459" ref="gallery"/>
+    <file name="_dsc2953α ok-crop-u10622.jpg" crc="3999981868" ref="gallery"/>
+    <file name="_dsc2969α ok-crop-u10618.jpg" crc="479120830" ref="gallery"/>
+    <file name="_dsc3004α ok-crop-u10606.jpg" crc="250538709" ref="gallery"/>
+    <file name="_okk5116 ok-crop-u10608.jpg" crc="4178678478" ref="gallery"/>
+    <file name="1-crop-u10596.jpg" crc="4188801736" ref="gallery"/>
+    <file name="2-crop-u10598.jpg" crc="149551600" ref="gallery"/>
+    <file name="3 ok-crop-u10614.jpg" crc="83861414" ref="gallery"/>
+    <file name="4-crop-u10620.jpg" crc="3765428811" ref="gallery"/>
+    <file name="5-crop-u10594.jpg" crc="3946633952" ref="gallery"/>
+    <file name="61-crop-u10592.jpg" crc="3845068739" ref="gallery"/>
+    <file name="6-crop-u10586.jpg" crc="3980899213" ref="gallery"/>
+    <file name="71 ok-crop-u10602.jpg" crc="6890" ref="gallery"/>
+    <file name="7-crop-u10588.jpg" crc="3901569328" ref="gallery"/>
+    <file name="8-crop-u10584.jpg" crc="4251291468" ref="gallery"/>
+    <file name="9-crop-u10580.jpg" crc="3815653957" ref="gallery"/>
+    <file name="10-crop-u10624.jpg" crc="82169140" ref="gallery"/>
+    <file name="11 ok-crop-u10616.jpg" crc="32094184" ref="gallery"/>
+    <file name="12 ok-crop-u10590.jpg" crc="4054267052" ref="gallery"/>
+    <file name="121-crop-u10600.jpg" crc="333607188" ref="gallery"/>
+    <file name="almyra 3-crop-u10612.jpg" crc="86165094" ref="gallery"/>
+    <file name="almyra banner-crop-u10582.jpg" crc="4033770727" ref="gallery"/>
+    <file name="ext_al_6-crop-u10604.jpg" crc="4286140883" ref="gallery"/>
+    <file name="wi-u10848.png" crc="4190127977" ref="gallery"/>
+    <file name="wi 2-u10848-r.png" crc="3861429938" ref="gallery"/>
+  </folder>
+  <file name="index.html" crc="3993400267" seo="true" mt="1452424856194" redirect="true"/>
+  <file name="anemos-ok.html" crc="481769066" seo="true" mt="1452423981123" redirect="true"/>
+  <file name="almyra-ok.html" crc="504097212" seo="true" mt="1483792514922" redirect="true"/>
+  <file name="ammos-ok.html" crc="130389851" seo="true" mt="1452424038244" redirect="true"/>
+  <file name="reviews.html" crc="4082052305" seo="true" mt="1451942446915" redirect="true"/>
+  <file name="rates-p.html" crc="3817383876" seo="true" mt="1451933979367" redirect="true"/>
+  <file name="location.html" crc="3936983382" seo="true" mt="1452423221807" redirect="true"/>
+  <file name="winter.html" crc="255690355" seo="true" mt="1452423257164" redirect="true"/>
+  <file name="gallery.html" crc="119090140" seo="true" mt="1452423244243" redirect="true"/>
+</manifest>
